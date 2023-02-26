@@ -41,7 +41,8 @@ packages:
 #
 # extra-deps: []
 extra-deps:
-
+- text-2.0.2@sha256:d495b2a2a53da7e66163477a5837d2109074f8818fc938739b9ecf27d506050a,9565
+- hashable-1.4.0.2@sha256:0cddd0229d1aac305ea0404409c0bbfab81f075817bd74b8b2929eff58333e55,5005
 # Override default flag values for local packages and extra-deps
 # flags: {}
 
